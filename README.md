@@ -1,26 +1,43 @@
+<h1> Hello, I am Heloisa 👋 </h1>
 
-<div align="center">
-  <a href="https://github.com/Hluch">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hlucht&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hlucht&layout=compact&langs_count=7&theme=dark"/>
-</div>
+Atualmente cursando programação e desenvolvimento de software !
 
 
+```kotlin
+object Heloisa {
+ val name = "Heloisa Luchtemberg"
+ val acknowledgements = "Developer"
+ 
+ val primarySkillset = "Hard Skills"
+ val languages = listOf("C", "SQL") 
 
-<!--
-### Hi there 👋
+}
+```
+
+<h3> Linguagens e Ferramentas: </h3>  
+
+<code><img height="30" src="https://img2.gratispng.com/20180426/dhq/kisspng-logo-c-5ae210bc560be0.5580505615247648603525.jpg"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-**Hlucht/Hlucht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Hlucht">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hlucht&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Hlucht">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hlucht&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+[instagram]: https://www.instagram.com/hlucht_/
+[linkedin]: https://www.linkedin.com/in/heloisa-luchtemberg/
+<br>
+
+#### Rede Sociais!
+
+📷 [Instagram][instagram] **|** 
+👔 [Linkedin][linkedin]
