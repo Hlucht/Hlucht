@@ -6,10 +6,10 @@ Atualmente cursando programação e desenvolvimento de software !
 ```kotlin
 object Heloisa {
  val name = "Heloisa Luchtemberg"
- val acknowledgements = "Developer"
+ val acknowledgements = "Junior Developer"
  
  val primarySkillset = "Hard Skills"
- val languages = listOf("C", "SQL", "Java Script", "HTML, "CSS") 
+ val languages = listOf("C", "SQL", "Java Script", "HTML, "CSS", "PHP") 
 
 }
 ```
